@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dogwood and Daffodils"
-date:   2026-4-06
+date:   2026-04-06
 preview: /assets/images/dogwood_daffodil.jpg
 tags:
  - oil

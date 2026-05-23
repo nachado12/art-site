@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Magnolia Hill"
+date:   2026-03-28
+preview: /assets/images/magnolias_hill.jpg
+tags:
+ - oil
+---
+
+![Magnolia Hill](/assets/images/magnolias_hill.jpg)
+
+12x24" oil on canvas.
+
+Painted on-site at the U.S. National Arboretum.

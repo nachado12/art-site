@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cherry Blossom Hill"
+date:   2026-03-24
+preview: /assets/images/cherry_hill.jpg
+tags:
+ - oil
+---
+
+![Cherry Blossom Hill](/assets/images/cherry_hill.jpg)
+
+24x36" oil on canvas
+
+Painted at the U.S. National Arboretum.

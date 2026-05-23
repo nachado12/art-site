@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cadillac Mountain, Acadia"
+date:   2025-10-19
+preview: /assets/images/acadia_cadillac.jpg
+tags:
+ - oil
+---
+
+![Cadillac Mountain, Acadia](/assets/images/acadia_cadillac.jpg)
+22x28" oil on canvas
+
+Painted on-site at the Cadillac Mountain Summit in Acadia National Park.

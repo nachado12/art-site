@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Shot of Fireball in Skull Glass"
+date:   2025-04-23
+preview: /assets/images/fireball.jpg
+tags:
+ - still
+---
+
+![Shot of Fireball in Skull Glass](/assets/images/fireball.jpg)
+
+8x10" oil on canvas.

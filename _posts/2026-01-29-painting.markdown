@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lake Needwood, Winter Sunrise"
+date:   2026-01-29
+preview: /assets/images/needwood_winter_pastel.jpg
+tags:
+ - pastel
+---
+
+![Lake Needwood, Winter Sunrise](/assets/images/needwood_winter_pastel.jpg)
+
+12x16" soft pastel on sanded paper.

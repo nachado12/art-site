@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Bank Along Lake Needwood, Fall"
+date:   2025-10-26
+preview: /assets/images/needwood_fall.jpg
+tags:
+ - oil
+---
+
+![Bank Along Lake Needwood, Fall](/assets/images/needwood_fall.jpg)
+
+20x20" oil on canvas.

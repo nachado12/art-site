@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Lilacs"
+date:   2026-04-08
+preview: /assets/images/lilacs.jpg
+tags:
+ - oil
+---
+
+![The Lilacs](/assets/images/lilacs.jpg)
+
+30x40" oil on canvas.
+
+Painted on-site at the U.S. National Arboretum.

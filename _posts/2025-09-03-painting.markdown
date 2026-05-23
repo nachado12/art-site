@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "King Farmstead Garden"
+date:   2025-09-03
+preview: /assets/images/king_farmstead.jpg
+tags:
+ - oil
+---
+
+![King Farmstead Garden](/assets/images/king_farmstead.jpg)
+
+30x40" oil on canvas.

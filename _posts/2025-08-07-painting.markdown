@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lake Needwood, Summer"
+date:   2025-08-07
+preview: /assets/images/needwood_summer.jpg
+tags:
+ - oil
+---
+
+![Lake Needwood, Summer 1](/assets/images/needwood_summer.jpg)
+
+30x40" oil on canvas.

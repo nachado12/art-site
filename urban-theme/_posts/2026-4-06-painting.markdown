@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Dogwood and Daffodils"
+date:   2026-4-06
+preview: /assets/images/dogwood_daffodil.jpg
+tags:
+ - oil
+---
+
+![Dogwood and Daffodils](/assets/images/dogwood_daffodil.jpg)
+
+20x24" oil on canvas. 

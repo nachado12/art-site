@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Ruby Beach"
+date:   2026-06-16
+preview: /assets/images/ruby_beach.jpg
+tags:
+ - pastel
+---
+
+![Ruby Beach](/assets/images/ruby_beach.jpg)
+
+12x16" soft pastel on sanded paper.
+
+Painted on-site at Olympic National Park.

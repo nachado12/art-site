@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Sycamore in Snow"
+date:   2026-02-01
+preview: /assets/images/sycamore_snow.jpg
+tags:
+ - oil
+---
+
+![Sycamore in Snow](/assets/images/sycamore_snow.jpg)
+
+30x24" oil on canvas.

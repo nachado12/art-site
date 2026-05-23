@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Echo Lake"
+date:   2025-06-10
+preview: /assets/images/echo_lake.jpg
+tags:
+ - pastel
+---
+
+![Echo Lake](/assets/images/echo_lake.jpg)
+
+16x20" soft pastel on sanded mat.
+
+Painted on-site at Echo Lake, MT.

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Great Falls"
+date:   2025-10-27
+preview: /assets/images/great_falls.jpg
+tags:
+ - pastel
+---
+
+![Great Falls](/assets/images/great_falls.jpg)
+
+20x16" soft pastel on sanded mat.
+
+Painted on-site at the Potomac River.

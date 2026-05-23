@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Seattle Skyline"
+date:   2025-06-19
+preview: /assets/images/seattle_pastel.jpg
+tags:
+ - pastel
+---
+
+![Seattle Skyline](/assets/images/seattle_pastel.jpg)
+
+4x12" soft pastel on sanded paper.
+
+

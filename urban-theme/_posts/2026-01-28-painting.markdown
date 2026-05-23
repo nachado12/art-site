@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lake Needwood, Frozen"
+date:   2026-01-28
+preview: /assets/images/needwood_frozen.jpg
+tags:
+ - oil
+---
+
+![Lake Needwood, Frozen](/assets/images/needwood_frozen.jpg)
+
+30x40" oil on canvas.

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Olympic Pine"
+date:   2025-06-18
+preview: /assets/images/olympic_pine.jpg
+tags:
+ - pastel
+---
+
+![Olympic Pine](/assets/images/olympic_pine.jpg)
+
+20x8" soft pastel on paper. 
+
+Painted on site at Olympic National Park.

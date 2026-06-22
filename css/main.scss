@@ -50,3 +50,20 @@ body {
   width: min(100vw, 500px);
   height: auto;
 }
+
+
+.image-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.sold-dot {
+  position: absolute;
+  bottom: 6px;
+  right: 6px;
+  width: 10px;
+  height: 10px;
+  background: red;
+  border-radius: 50%;
+  border: 2px solid white; /* makes it visible on any image */
+}
